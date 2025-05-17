@@ -1,0 +1,17 @@
+{
+    "MENU_HOME": "Home",
+    "MENU_LISTING": "Listings",
+    "MENU_PRICING": "Pricing",
+    "MENU_PAGES": "Pages",
+    "MENU_ABOUT": "About",
+    "MENU_LOCATION": "Location",
+    "MENU_FAQ": "FAQ",
+    "MENU_BRAND": "Brand",
+    "MENU_BLOG": "Blog",
+    "MENU_CONTACT": "Contact",
+    "MENU_LOGIN_REGISTER": "Login or Register",
+    "MENU_DASHBOARD": "Dashboard",
+    "MENU_ADD_LISTING": "Add Listing",
+    "MENU_PRIVACY_POLICY": "Privacy Policy",
+    "MENU_TERMS_AND_CONDITIONS": "Terms and Conditions"
+}
